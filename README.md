@@ -24,12 +24,12 @@ Normalmente usamos Google Maps o Street View para saber cómo llegar a un sitio 
 
 En Google Maps y Street View no solo vemos mapas, sino una combinación de imágenes y datos. El territorio se presenta como algo dinámico, que cambia y se actualiza continuamente, y en el que también intervienen las aportaciones de quienes lo utilizan.
 
-Desde la perspectiva de Lev Manovich, Google Maps y Street View pueden entenderse cómo el software actúa como un metamedio que organiza y presenta el mundo a través de bases de datos. El territorio deja de representarse como un mapa fijo para convertirse en una estructura navegable, compuesta por capas de información, imágenes y datos que el usuario explora mediante su interfaz.
+Desde la perspectiva de Lev Manovich, Google Maps y Street View pueden entenderse como el software actúa como un metamedio que organiza y presenta el mundo a través de bases de datos. El territorio deja de representarse como un mapa fijo para convertirse en una estructura navegable, compuesta por capas de información, imágenes y datos que el usuario explora mediante su interfaz.
 
 En este sentido, la manera en que experimentamos el espacio ya no es directa, sino que pasa por la lógica del software, que introduce cambios constantes. Las rutas que seguimos y las recomendaciones que recibimos no son objetivas, sino que responden a decisiones algorítmicas según el perfil de cada usuario. Así, esta forma de representación enlaza con la idea de Manovich de que el software no se limita a mostrar la realidad, sino que la organiza, la modela y, en cierto modo, la transforma.
 
 ## Reflexión
-Google Maps ha modificado profundamente la forma en que nos relacionamos con el mundo real. La orientación y como nos moviamos, que antes dependían de nuestra memoria y la experiencia, pasan a estar mediados por una interfaz que guía y decide el recorrido. El espacio deja de ser algo que se descubre para convertirse en algo que se navega.
+Google Maps ha modificado profundamente la forma en que nos relacionamos con el mundo real. La orientación y cómo nos movíamos, que antes dependían de nuestra memoria y la experiencia, pasan a estar mediados por una interfaz que guía y decide el recorrido. El espacio deja de ser algo que se descubre para convertirse en algo que se navega.
 
 Además, Google Maps y Street View normalizan una forma de entender el territorio basada en la recopilación constante de datos, integrando estas prácticas en la vida cotidiana casi sin que nos demos cuenta. Esta mediación pone de relieve que el software no es solo una herramienta de apoyo, sino un elemento que influye activamente en nuestro día a día.
 
