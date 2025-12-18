@@ -4,6 +4,7 @@
 **Asignatura:** Cultura Digital - Aula 1  
 **Universidad:** Universitat Oberta de Catalunya
 ## Caso 1: Google Docs y la transformación de la escritura
+![Logo Google Docs](https://www.muycomputer.com/wp-content/uploads/2022/07/Google-Docs.jpg)
 Google Docs suele entenderse como un procesador de texto online, pero en realidad cambia bastante más cosas. No solo permite escribir desde cualquier lugar, sino que introduce nuevas formas de trabajar con el texto, como la colaboración en tiempo real, el control de versiones y el trabajo en la nube. Desde la idea de la hibridación del software, sirve para ver cómo la escritura, una práctica tradicionalmente individual, se adapta a la lógica del software.
 
 Google Docs funciona como un espacio híbrido en el que se mezclan prácticas que antes estaban separadas. La escritura convive con la colaboración en tiempo real y la edición simultánea, todo dentro de una misma interfaz. El documento deja de ser un archivo cerrado y pasa a ser algo cambiante, que se actualiza constantemente y cuya existencia depende del software y de la infraestructura en la nube.
