@@ -18,6 +18,7 @@ Desde un punto de vista cultural, Google Docs ha cambiado bastante la forma en q
 En el ámbito académico, Google Docs deja claro que el software va más allá de ser una simple herramienta. La dependencia de la nube o la forma en que está pensada la interfaz terminan influyendo en cómo trabajamos juntos. Al final, la plataforma no solo acompaña el proceso, sino que lo condiciona, algo que conecta directamente con la idea de Lev Manovich de que el software tiene un papel activo dentro de la cultura contemporánea.
 
 ## Caso 2: Google Maps y la mediación del espacio
+![Logo Google Maps](https://viasverdes.com/noticias/img/google-maps-1-1200x689.jpg)
 Normalmente usamos Google Maps o Street View para saber cómo llegar a un sitio o para ubicarnos, pero estas herramientas hacen algo más que guiarnos. Al mezclar mapas, fotografías y datos, acaban influyendo en cómo imaginamos los lugares. El territorio ya no se percibe solo como un espacio que se recorre físicamente, sino como algo que también se explora a través de la pantalla, gracias al software. Al final, la forma en que vemos el territorio depende en gran parte de la interfaz y de los procesos automáticos que utiliza Google Maps para organizar la información.
 
 En Google Maps y Street View no solo vemos mapas, sino una combinación de imágenes y datos. El territorio se presenta como algo dinámico, que cambia y se actualiza continuamente, y en el que también intervienen las aportaciones de quienes lo utilizan.
