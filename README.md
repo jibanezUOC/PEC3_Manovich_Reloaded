@@ -13,6 +13,7 @@ Desde la perspectiva de Lev Manovich, Google Docs puede entenderse como un ejemp
 
 Además, la modularidad y la variabilidad son elementos clave en Google Docs, ya que el texto se construye a partir de fragmentos que pueden modificarse, reorganizarse o comentarse de manera independiente. El proceso de escritura deja de ser estable y definitivo para convertirse en una práctica continua, mediada por la automatización y la interfaz del software.
 
+## Reflexión
 Desde un punto de vista cultural, Google Docs ha cambiado bastante la forma en que entendemos la escritura. El hecho de que varias personas puedan escribir a la vez en un mismo documento hace que el autor pierda peso y que la escritura se convierta en algo más colectivo. Ya no se trata solo de entregar un texto final, sino de todo el proceso que hay detrás, que queda visible y abierto a cambios.
 
 En el ámbito académico, Google Docs deja claro que el software va más allá de ser una simple herramienta. La dependencia de la nube o la forma en que está pensada la interfaz terminan influyendo en cómo trabajamos juntos. Al final, la plataforma no solo acompaña el proceso, sino que lo condiciona, algo que conecta directamente con la idea de Lev Manovich de que el software tiene un papel activo dentro de la cultura contemporánea.
@@ -26,3 +27,8 @@ En Google Maps y Street View no solo vemos mapas, sino una combinación de imág
 Desde la perspectiva de Lev Manovich, Google Maps y Street View pueden entenderse cómo el software actúa como un metamedio que organiza y presenta el mundo a través de bases de datos. El territorio deja de representarse como un mapa fijo para convertirse en una estructura navegable, compuesta por capas de información, imágenes y datos que el usuario explora mediante su interfaz.
 
 En este sentido, la manera en que experimentamos el espacio ya no es directa, sino que pasa por la lógica del software, que introduce cambios constantes. Las rutas que seguimos y las recomendaciones que recibimos no son objetivas, sino que responden a decisiones algorítmicas según el perfil de cada usuario. Así, esta forma de representación enlaza con la idea de Manovich de que el software no se limita a mostrar la realidad, sino que la organiza, la modela y, en cierto modo, la transforma.
+
+## Reflexión
+Google Maps ha modificado profundamente la forma en que nos relacionamos con el mundo real. La orientación y como nos moviamos, que antes dependían de nuestra memoria y la experiencia, pasan a estar mediados por una interfaz que guía y decide el recorrido. El espacio deja de ser algo que se descubre para convertirse en algo que se navega.
+
+Además, Google Maps y Street View normalizan una forma de entender el territorio basada en la recopilación constante de datos, integrando estas prácticas en la vida cotidiana casi sin que nos demos cuenta. Esta mediación pone de relieve que el software no es solo una herramienta de apoyo, sino un elemento que influye activamente en nuestro día a día.
