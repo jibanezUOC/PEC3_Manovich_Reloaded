@@ -32,3 +32,18 @@ En este sentido, la manera en que experimentamos el espacio ya no es directa, si
 Google Maps ha modificado profundamente la forma en que nos relacionamos con el mundo real. La orientación y como nos moviamos, que antes dependían de nuestra memoria y la experiencia, pasan a estar mediados por una interfaz que guía y decide el recorrido. El espacio deja de ser algo que se descubre para convertirse en algo que se navega.
 
 Además, Google Maps y Street View normalizan una forma de entender el territorio basada en la recopilación constante de datos, integrando estas prácticas en la vida cotidiana casi sin que nos demos cuenta. Esta mediación pone de relieve que el software no es solo una herramienta de apoyo, sino un elemento que influye activamente en nuestro día a día.
+
+## Referencias y enlaces
+
+- Manovich, L. (2001). *El lenguaje de los nuevos medios*.
+- Manovich, L. (2013). *El software toma el mando*.
+
+### Google Docs
+- https://www.google.com/docs/about/
+- https://support.google.com/docs/#topic=1382883
+- https://en.wikipedia.org/wiki/Google_Docs
+
+### Google Maps / Street View
+- https://www.google.com/maps
+- https://www.google.com/streetview/
+- https://en.wikipedia.org/wiki/Google_Maps
