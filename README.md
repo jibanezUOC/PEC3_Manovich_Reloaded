@@ -8,6 +8,10 @@
 
 ---
 
+## Introducción
+
+Esta PEC se centra en el análisis de la hibridación del software en la cultura digital actual. A partir de dos casos cotidianos Google Docs y Google Maps/Street View se puede observar cómo distintos medios se combinan para crear nuevas formas de interacción. Con las gafas de Lev Manovich, el objetivo es mostrar cómo el software no solo ayuda a hacer cosas, sino que también cambia la forma en que escribimos o nos orientamos en el día a día.
+
 ## Caso 1: Google Docs y la transformación de la escritura
 
 ![Logo Google Docs](https://www.muycomputer.com/wp-content/uploads/2022/07/Google-Docs.jpg)
